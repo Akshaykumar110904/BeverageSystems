@@ -1,6 +1,3 @@
-Here's a detailed `README.md` file you can use for GitHub for your **Beverages Cooperation Limited** management system written in C.
-
----
 
 ````markdown
 # 🍾 Beverages Cooperation Limited - Management System
