@@ -1,4 +1,4 @@
-# 🍾 Beverages Cooperation Limited - Inventory & Billing Management System
+# Beverages Cooperation Limited - Inventory & Billing Management System
 
 ## Overview
 This is a console-based C application developed to manage daily operations of a beverage distribution company. It allows shop registration, stock management, order billing, and inventory refilling. The system uses **binary file storage** (`.dat`) and generates **text-based bills** for persistence and record-keeping.
@@ -30,12 +30,12 @@ This is a console-based C application developed to manage daily operations of a 
    ```bash
    git clone <repository-url>
    cd <repository-folder>
-````
+
 
 2. **Compile the Program**
 
    ```bash
-   gcc main.c -o beverages
+   gcc BeverageSystem.c -o beverages
    ```
 
 3. **Run the Program**
@@ -156,5 +156,3 @@ TOTAL BILL = 4200.00
 
 * Developed using standard C file-handling concepts
 * Designed for academic and learning purposes
-
-```
